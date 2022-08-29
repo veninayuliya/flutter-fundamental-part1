@@ -26,3 +26,6 @@ Langkah 4
 
 Langkah 5
 ![praktikum 4](images/4.5.jpg)
+
+Langkah 6
+![praktikum 4](images/4.6.jpg)
