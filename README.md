@@ -20,3 +20,9 @@ Langkah 2
 
 Langkah 3
 ![praktikum 4](images/4.3.jpg)
+
+Langkah 4
+![praktikum 4](images/4.4.jpg)
+
+Langkah 5
+![praktikum 4](images/4.5.jpg)
