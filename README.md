@@ -1,5 +1,4 @@
 # hello_world
 
-A new Flutter project.
-
-![Screenshot hello_world](images/01.jpg)
+Praktikum 1
+![praktikum 1](images/01.jpg)
