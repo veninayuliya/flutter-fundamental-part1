@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 
-class MyApp extends StatelessWidget {
-  const MyApp({Key? key}) : super(key: key);
+class MyScaffold extends StatelessWidget {
+  const MyScaffold({Key? key}) : super(key: key);
 
   // This widget is the root of your application.
   @override
