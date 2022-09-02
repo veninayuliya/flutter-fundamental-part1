@@ -18,6 +18,9 @@ Langkah 2
 
 ## Praktikum 4
 
+Langkah 1
+![praktikum 4](images/4.1.jpg)
+
 Langkah 3
 ![praktikum 4](images/4.3.jpg)
 
