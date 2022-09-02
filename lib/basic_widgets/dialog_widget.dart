@@ -1,18 +1,5 @@
 import 'package:flutter/material.dart';
 
-class MyDialog extends StatelessWidget {
-  const MyDialog({Key? key}) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return const MaterialApp(
-      home: Scaffold(
-        body: MyLayout(),
-      ),
-    );
-  }
-}
-
 class MyLayout extends StatelessWidget {
   const MyLayout({Key? key}) : super(key: key);
 
