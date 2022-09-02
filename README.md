@@ -21,6 +21,9 @@ Langkah 2
 Langkah 1
 ![praktikum 4](images/4.1.jpg)
 
+Langkah 2
+![praktikum 4](images/4.2.jpg)
+
 Langkah 3
 ![praktikum 4](images/4.3.jpg)
 
